@@ -10,7 +10,7 @@ Here are my ***reposted*** game's links:
 
 [Regular Games](https://fire-9999.github.io/boredhtml) - CREDIT GOES TO BOREDHTML INC. ([Github Profile](https://github.com/PiSaucer/boredhtml))  |||  
 [Gameboy Games](https://fire-9999.github.io/gb) - CREDIT GOES TO NABILAFK ([Github Profile](https://github.com/nabilafk)) 
-**please note only the games on the left collumn work in all schools, some schools may block everything in the middle/right collumns**
+**please note only the games on the left column work in all schools, some schools may block everything in the middle/right columns**
 
 ## if any github creators have problems or issues with me reposting their sites, DM me on Discord. I'm  much more active there.
 
