@@ -1,6 +1,6 @@
 # 👋👋👋 *greetings bored students...*
 
-## 🎮🎮 if you're here for the **unblo(cked games**, then the **links are at the bottom** 🎮🎮
+## 🎮🎮 if you're here for the **unblo(cked games**, then the **links are below** 🎮🎮
 
 
 
