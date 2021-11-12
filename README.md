@@ -1,6 +1,6 @@
-#👋👋👋 *greetings bored students...*
+# 👋👋👋 *greetings bored students...*
 
-##🎮🎮 if you're here for the **unblo(cked games**, then the **links are at the bottom** 🎮🎮
+## 🎮🎮 if you're here for the **unblo(cked games**, then the **links are at the bottom** 🎮🎮
 
 
 
@@ -11,6 +11,6 @@ Here are my ***reposted*** game's links:
 https://fire-9999.github.io/boredhtml - CREDIT GOES TO BOREDHTML INC. (https://github.com/PiSaucer/boredhtml)
 https://fire-9999.github.io/gb - CREDIT GOES TO NABILAFK (https://github.com/nabilafk)
 
-##if any github creators have problems or issues with me reposting their sites, DM me on Discord. I'm  much more active there.
+## if any github creators have problems or issues with me reposting their sites, DM me on Discord. I'm  much more active there.
 
-###if you see any weird symbols in my typing, it's so the school doesn't find the website suspicious by looking at hotwords such as 'unblo)cked g(ames' next to each other, just in case.
+### if you see any weird symbols in my typing, it's so the school doesn't find the website suspicious by looking at hotwords such as 'unblo)cked g(ames' next to each other, just in case.
