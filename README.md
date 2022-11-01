@@ -4,7 +4,7 @@
 
 - 📚 Student
 - 🌟 Beginner coder
-- 😴 Not very active on github
+- 😴 Not very active on github, but I privated/deleted most of my projects.
 - 🍕 Favorite food is pizza
 
 ## Personal Log
