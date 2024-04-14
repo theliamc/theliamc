@@ -1,4 +1,3 @@
 student @ qo
-<p>
-  <img src="[https://img.shields.io/badge/HTML5](https://img.shields.io/badge/any_text-you_like-blue)-">
-</p>
+
+![Static Badge](https://img.shields.io/badge/hello)
