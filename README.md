@@ -17,6 +17,7 @@
 <p align="center">
     <img alt="cpp" src="https://img.shields.io/badge/c%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=black">
     <img alt="github" src="https://img.shields.io/badge/github-9B9B9B?style=flat-square&logo=github&logoColor=black">
+    <img alt="java" src="https://img.shields.io/badge/java-FFD580?style=flat-square&logo=java&logoColor=black">
 </p>
 
 <h3 align="center">cards/stats:</h3>
