@@ -4,7 +4,7 @@
 <h3 align="center">comfortable:</h3>
 <p align="center">
     <img alt="html" src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=HTML5&logoColor=black">
-    <img alt="git " src="https://img.shields.io/badge/git-FCA103?style=flat-square&logo=git&logoColor=black">
+    <img alt="github" src="https://img.shields.io/badge/github-9B9B9B?style=flat-square&logo=github&logoColor=black">
     <img alt="python" src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=black">
     <img alt="css" src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=black">
     <img alt="js" src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
@@ -16,8 +16,8 @@
 <h3 align="center">learning:</h3>
 <p align="center">
     <img alt="cpp" src="https://img.shields.io/badge/c%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=black">
-    <img alt="github" src="https://img.shields.io/badge/github-9B9B9B?style=flat-square&logo=github&logoColor=black">
-    <img alt="java" src="https://img.shields.io/badge/java-FFD580?style=flat-square&logo=data:image/png%2bxml;base64,aHR0cHM6Ly9pY29uZHVjay5jb20vaWNvbnMvMjc1MzkvamF2YQ==&logoColor=black">
+    <img alt="git " src="https://img.shields.io/badge/git-FCA103?style=flat-square&logo=git&logoColor=black">
+    <img alt="java" src="https://img.shields.io/badge/java-FFD580?style=flat-square&logo=openjdk&logoColor=black">
 </p>
 
 <h3 align="center">cards/stats:</h3>
