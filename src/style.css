@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Special+Gothic+Expanded+One&display=swap');
+
+:root {
+    --mainBgColor: #FFFAD9;
+    --mainTitleColor: #556B2F;
+    --accentBgColor: #4357AD;
+    --accentTitleColor: #160C28;
+    --mainAccentColor: #A6B1E1;
+    --navBgColor: #BA8E2333;
+
+    --titleFont: "Caprasimo", cursive;
+    --headingFont: "Special Gothic Expanded One", sans-serif;
+}
+
+body {
+    background-color: var(--mainBgColor);
+}
+
+.navElements {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.navElements li {
+    float: left;
+    display: block;
+}
+
+.welcomeWrapper {
+    position: relative;
+    display: inline-block;
+    font-size: 2vh;
+    padding-right: 7.5vw;
+}
+
+#mainHeader {
+    font-family: var(--titleFont);
+    margin-left: 2.5vw;
+    position: relative;
+    background: linear-gradient(85deg, var(--mainTitleColor), #404B2D, white);
+    background-size: 300%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: background-position 0.1s;
+}
+
+#mainHeader::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 200%;
+    height: 100%;
+    background: linear-gradient(115deg, transparent 0%, rgba(225, 225, 225, 0.3) 50%, transparent 100%);
+    animation: glint 2s infinite;
+}
+
+@keyframes glint {
+    0% {
+        left: -100%;
+    }
+    50% {
+        left: 0%;
+    }
+    100% {
+        left: -100%;
+    }
+}
+
+.nonWelcomeNavElements {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0;
+    font-size: 1.5vh;
+    color: var(--mainTitleColor);
+    font-family: var(--headingFont);
+}
+
+.nonWelcomeNavElements div {
+    padding-top: 1vh;
+    color: var(--mainTitleColor);
+}
+
+nav {
+    padding: 0.5vh;
+    margin-left: 0px;
+    background-color: var(--navBgColor);
+    border-radius: 25px;
+}
+
+nav a {
+    text-decoration: none;
+    font-family: var(--headingFont);
+}
+
+.portfolio {
+    color: var(--mainTitleColor);
+    font-family: var(--headingFont);
+    cursor: pointer;
+}
+
+.flags {
+    padding-right: 2vw;
+}
+
+.flags img {
+    width: 10vw;
+    cursor: pointer;
+}
+
+.selected {
+    color: var(--accentBgColor);
+}
