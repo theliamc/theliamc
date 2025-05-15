@@ -17,34 +17,16 @@ body {
     background-color: var(--mainBgColor);
 }
 
-.navElements {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-}
-
-.navElements li {
-    float: left;
-    display: block;
-}
-
-.welcomeWrapper {
-    position: relative;
-    display: inline-block;
-    font-size: 2vh;
-    padding-right: 7.5vw;
-}
-
 #mainHeader {
     font-family: var(--titleFont);
-    margin-left: 2.5vw;
     position: relative;
     background: linear-gradient(85deg, var(--mainTitleColor), #404B2D, white);
     background-size: 300%;
+    background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     transition: background-position 0.1s;
+    font-size: 3.5em;
 }
 
 #mainHeader::before {
@@ -70,46 +52,47 @@ body {
     }
 }
 
-.nonWelcomeNavElements {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 0;
-    font-size: 1.5vh;
-    color: var(--mainTitleColor);
-    font-family: var(--headingFont);
-}
-
-.nonWelcomeNavElements div {
-    padding-top: 1vh;
-    color: var(--mainTitleColor);
-}
-
 nav {
-    padding: 0.5vh;
     margin-left: 0px;
     background-color: var(--navBgColor);
     border-radius: 25px;
-}
-
-nav a {
-    text-decoration: none;
     font-family: var(--headingFont);
 }
 
-.portfolio {
-    color: var(--mainTitleColor);
-    font-family: var(--headingFont);
-    cursor: pointer;
+.navContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0em 2vw;
 }
 
-.flags {
-    padding-right: 2vw;
+.leftNav, .centerNav, .rightNav {
+    display: flex;
+    align-items: center;
 }
 
-.flags img {
+.centerNav {
+    gap: 5em;
+    justify-content: center;
+    flex-grow: 1;
+    font-size: 2.5em;
+}
+
+.leftNav {
+    flex-shrink: 0;
+}
+
+.rightNav img {
     width: 10vw;
     cursor: pointer;
+}
+
+a:link,
+a:visited,
+a:hover,
+a:active {
+    color: var(--mainTitleColor) !important;
+    text-decoration: none !important;
 }
 
 .selected {

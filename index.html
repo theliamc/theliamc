@@ -18,35 +18,19 @@ TODO:
 </head>
 <body>
     <nav>
-        <ul class="navElements">
-            <li>
-                <div class="welcomeWrapper">
-                    <h1 id="mainHeader">WELCOME</h1>
-                </div>
-            </li>
-            <div class="nonWelcomeNavElements">
-                <li>
-                    <div class="selected landing">
-                        <h1><a href="index.html" target="_top">MAIN</a></h1>
-                    </div>
-                </li>
-                <li>
-                    <div class="portfolio">
-                        <h1><a href="portfolio.html" target="_top">PORTFOLIO</a></h1>
-                    </div>
-                </li>
-                <li>
-                    <div class="blog">
-                        <h1><a href="blog.html" target="_top">BLOG</a></h1>
-                    </div>
-                </li>
-                <li>
-                    <div class="flags">
-                        <img src="imgs/br-us-flags.png">
-                    </div>
-                </li>
+        <div class="navContainer">
+            <div class="leftNav">
+                <h1 id="mainHeader">WELCOME</h1>
             </div>
-        </ul>
+            <div class="centerNav">
+                <a href="index.html" class="selected">MAIN</a>
+                <a href="portfolio.html">PORTFOLIO</a>
+                <a href="blog.html">BLOG</a>
+            </div>
+            <div class="rightNav">
+                <img src="imgs/br-us-flags.png" alt="language switch">
+            </div>
+        </div>
     </nav>
 </body>
 </html>
