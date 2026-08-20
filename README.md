@@ -10,12 +10,12 @@
     <img alt="js" src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
     <img alt="vscode" src="https://img.shields.io/badge/vscode-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=black"">
     <img alt="Static Badge" src="https://img.shields.io/badge/lua-2C2D72?style=flat-square&logo=lua&logoColor=black">
+    <img alt="java" src="https://img.shields.io/badge/java-FFD580?style=flat-square&logo=openjdk&logoColor=black">
 </p>
 
 <h3 align="center">learning:</h3>
 <p align="center">
     <img alt="git " src="https://img.shields.io/badge/git-FCA103?style=flat-square&logo=git&logoColor=black">
-    <img alt="java" src="https://img.shields.io/badge/java-FFD580?style=flat-square&logo=openjdk&logoColor=black">
 </p>
 
 ---
