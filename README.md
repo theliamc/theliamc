@@ -1,5 +1,5 @@
 <p align="center">
-    cs student - <a href="https://liamcarolan.me/liamc.me" target="_blank">liam carolan</a>
+    cs student - <a href="https://liamcarolan.me/" target="_blank">liam carolan</a>
 </p>
 
 ---
